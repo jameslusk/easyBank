@@ -15,10 +15,26 @@ body {
     font-size: $font-med;
     font-weight: 300;
     color: $grayishBlue;
+
+    &.lockScroll {
+        overflow: hidden;
+    }
+}
+
+h1, h2, h3 {
+    margin-top: 0;
 }
 
 a, a:visited, a:hover {
     text-decoration: none;
+}
+
+// Spacing
+.container {
+    padding-top: 2.25rem;
+    padding-right: 1.5rem;
+    padding-bottom: 2.25rem;
+    padding-left: 1.5rem;
 }
 
 // FLebox Styles
@@ -41,13 +57,21 @@ a, a:visited, a:hover {
 
 // Buttons
 button, .button {
+    display: inline-block;
     padding: 0.875rem 2.1875rem;
     background: linear-gradient(to right, $limeGreen, $brightCyan);
     border: 0;
     border-radius: 50px;
     cursor: pointer;
-    color: white;
+    color: $white;
     font-weight: 400;
+    font-size: $font-sm;
+    transition: opacity 300ms ease-in-out;
+    display: inline-block;
+
+    &:hover {
+        opacity: 0.75;
+    }
 }
 
 // Visibility
