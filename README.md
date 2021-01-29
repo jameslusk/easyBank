@@ -1,7 +1,7 @@
 # easyBank
 A website project from FrontEndMentor.io/ 
 
-You can check out this website [here](https://jameslusk.github.io/easyBank/).
+You can check out this website [here](https://trusting-ardinghelli-5ba15f.netlify.app/).
 
 #### Brief
 Your challenge is to build out this landing page and get it looking as close to the design as possible.
