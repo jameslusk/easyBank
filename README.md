@@ -1,9 +1,13 @@
 # easyBank
 A website project from FrontEndMentor.io/ 
 
-You can check out this website [here](https://trusting-ardinghelli-5ba15f.netlify.app/).
+I used HTML, Sass, and Javascript. I learned a lot with flex, grid, and media queries.
 
-Link to Front End Mentor [Easy Bank Challange](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN).
+You can check out my finished website [here](https://trusting-ardinghelli-5ba15f.netlify.app/).
+
+[Link]((https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)) to Front End Mentor Easy Bank Challange.
+
+Click [here](https://github.com/jameslusk/easyBank/tree/main/design) to view original design files.
 
 #### Brief
 Your challenge is to build out this landing page and get it looking as close to the design as possible.
